@@ -1,33 +1,39 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://nextwork.ai/static/nextwork-logo-paper.svg" /><img src="https://nextwork.ai/static/nextwork-logo-leather.svg" alt="NextWork" width="300" /></picture>
+# AWS Cloud Beginner Challenge — Learning Journal
 
-# Join the Cloud Beginner Challenge!
+A beginner learning journal documenting my introduction to cloud computing and Amazon Web Services (AWS).
 
-**Project Link:** [View Project](https://nextwork.ai/projects/2fe2ae3a-0ce6-576a-a24c-b54ca656c36e)
+## Learning Goal
 
-**Author:** AFFAN KHAN
+Build a foundation in cloud computing and understand the AWS services used to create and operate applications.
+
+## What Is Cloud Computing?
+
+Cloud computing provides on-demand access to computing resources—such as servers, storage, databases, and networking—without requiring users to manage all the underlying hardware themselves.
+
+## AWS Services I Am Exploring
+
+- **Amazon S3:** Object storage.
+- **Amazon EC2:** Virtual compute instances.
+- **AWS IAM:** Identity and access management.
+- **Amazon VPC:** Networking resources for AWS workloads.
+
+## Key Takeaways
+
+- Cloud platforms provide access to IT resources on demand.
+- AWS services have different responsibilities and configuration options.
+- Identity, permissions, and secure configuration are important parts of cloud learning.
+- Hands-on projects help connect concepts with real console workflows.
+
+## Next Steps
+
+- Continue practicing with S3, EC2, and IAM in a learning environment.
+- Learn basic cloud networking concepts.
+- Document project goals, steps, screenshots, and results.
+- Review security settings and monitor service usage.
+
+## Security Reminder
+
+Enable MFA, protect account credentials, avoid publishing access keys, and monitor AWS usage and billing. Review current Free Tier eligibility and pricing before creating resources.
 
 ---
-
-## My AWS Challenge
-
-I'm taking on the AWS Beginners Challenge! Over 4 projects, I will... I'm learning AWS because..."I'm a college grad and I want to make my resume stand out with AWS experience, which employers are asking for."
-
-### Hold Me Accountable!
-
-I'm challenging myself to complete all 4 projects in the next 4 days. To make it happen, I will keep myself accountable by Nextwork.ai. My reward for completing this challenge will be a ice cream
-
-![My AWS Challenge](https://nextwork.ai/appreciative_pink_proud_lynx/uploads/2fe2ae3a-0ce6-576a-a24c-b54ca656c36e_2345sthr)
-
-## What is Cloud?
-
-Before cloud computing, we had to rely on our personal hardware to store anything or play anything. Now with cloud computing, we can access anything anywhere
-
-### What is AWS?
-
-AWS (Amazon Web Services) is the leading cloud platform, which means it provides computing resources, like storage, databases, and networking, over the internet. Its data centers power about a third of the cloud computing services running every day!
-
-AWS professionals are the experts behind the scenes that are building, maintaining, and securing the cloud applications you use every day.
-
-## Excited to share my progress! Let's connect.
-
-![Excited to share my progress! Let's connect.](https://nextwork.ai/appreciative_pink_proud_lynx/uploads/2fe2ae3a-0ce6-576a-a24c-b54ca656c36e_ba6d42ae)
+This is a learning journal, not a claim of professional certification or production deployment experience.

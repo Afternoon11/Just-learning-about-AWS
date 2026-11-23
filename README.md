@@ -37,3 +37,19 @@ Enable MFA, protect account credentials, avoid publishing access keys, and monit
 
 ---
 This is a learning journal, not a claim of professional certification or production deployment experience.
+
+
+## Cloud Learning Map
+
+```mermaid
+flowchart LR
+ A[Cloud Computing] --> B[Amazon S3]
+ A --> C[Amazon EC2]
+ A --> D[AWS IAM]
+ A --> E[Amazon VPC]
+ B --> F[Hands-on Labs]
+ C --> F
+ D --> F
+ E --> F
+ F --> G[Document Results & Security Lessons]
+```
